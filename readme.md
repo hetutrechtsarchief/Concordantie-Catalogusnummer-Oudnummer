@@ -3,7 +3,7 @@ Een script en een CSV bestand met Concordantie tussen HUA Beeldbank Catalogusnum
 
 Er zijn op het moment van schrijven +100.000 afbeeldingen in de beeldbank waarvan een of meerdere 'oude nummers' bekend zijn. Onderstaande loop voert meerdere queries (in blokken van 10.000 resultaten) uit op de [triplestore van Het Utrechts Archief](https://data.netwerkdigitaalerfgoed.nl/hetutrechtsarchief/mi2rdf/sparql/mi2rdf). De output gaat naar 1 groot csv, md, html en pdf bestand.
 
-## Usage:
+## Lijst genereren
 ```bash
 ./maak-lijst.sh
 ```
