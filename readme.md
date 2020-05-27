@@ -8,8 +8,8 @@ Er zijn op het moment van schrijven +100.000 afbeeldingen in de beeldbank waarva
 ./download-csv.sh
 ```
 
-## Query live uitvoeren via SPARQL
-https://api.data.netwerkdigitaalerfgoed.nl/s/hAuhfUMyA
+## SPARQL Query live uitvoeren
+https://api.data.netwerkdigitaalerfgoed.nl/s/zb80tB6Xo
 
 ## SPARQL query
 ```sparql
