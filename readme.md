@@ -5,7 +5,7 @@ Er zijn op het moment van schrijven +100.000 afbeeldingen in de beeldbank waarva
 
 ## Usage:
 ```bash
-./download-csv.sh
+./maak-lijst.sh
 ```
 
 ## Download het resultaat
