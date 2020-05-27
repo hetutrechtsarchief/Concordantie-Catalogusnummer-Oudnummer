@@ -13,11 +13,6 @@ Er zijn op het moment van schrijven +100.000 afbeeldingen in de beeldbank waarva
 * Download hier [het resultaat als CSV](https://github.com/hetutrechtsarchief/Concordantie-Catalogusnummer-Oudnummer/raw/master/output/HUA-catnr-oudnr.csv) (3,5MB, 115.399 regels).
 * Download hier [het resultaat als PDF](https://github.com/hetutrechtsarchief/Concordantie-Catalogusnummer-Oudnummer/raw/master/output/HUA-catnr-oudnr.pdf) (5MB, 2500 pagina's).
 
-* [HUA-catnr-oudnr.csv](https://github.com/hetutrechtsarchief/Concordantie-Catalogusnummer-Oudnummer/raw/master/output/HUA-catnr-oudnr.csv)
-* [HUA-catnr-oudnr.md](https://github.com/hetutrechtsarchief/Concordantie-Catalogusnummer-Oudnummer/raw/master/output/HUA-catnr-oudnr.md)
-* [HUA-catnr-oudnr.pdf](https://github.com/hetutrechtsarchief/Concordantie-Catalogusnummer-Oudnummer/raw/master/output/HUA-catnr-oudnr.pdf)
-* [HUA-catnr-oudnr.html](https://github.com/hetutrechtsarchief/Concordantie-Catalogusnummer-Oudnummer/raw/master/output/HUA-catnr-oudnr.html)
-
 ## SPARQL Query live uitvoeren
 https://api.data.netwerkdigitaalerfgoed.nl/s/zb80tB6Xo
 
