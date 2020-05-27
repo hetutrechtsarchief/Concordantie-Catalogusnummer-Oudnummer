@@ -1,5 +1,5 @@
 # Concordantie Catalogusnummer vs. Oudnummer
-Deze repo bevat code en het resultaat daarvan om een Concordantielijst te maken van HUA Beeldbank Catalogusnummer en Oude nummering uit het verleden.
+Deze repo bevat code (en het resultaat daarvan) om een Concordantielijst te maken van HUA Beeldbank Catalogusnummer en Oude nummering uit het verleden.
 
 Er zijn op het moment van schrijven +/- 115.000 afbeeldingen in de beeldbank waarvan een of meerdere 'oude nummers' bekend zijn. Naar deze nummers wordt nogal eens verwezen in oude documenten maar worden niet door HUA in de Beeldbank getoond of doorzoekbaar gemaakt.
 
