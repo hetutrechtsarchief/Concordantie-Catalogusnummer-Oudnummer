@@ -1,10 +1,4 @@
-# er zijn op het moment van schrijven +100.000 afbeeldingen in de beeldbank waarvan 
-# een of meerdere 'oude nummers' bekend zijn. Onderstaande loop voert meerdere queries 
-# (in blokken van 10.000 resultaten) uit op de triplestore van Het Utrechts Archief.
-# de output kun je redirecten naar 1 groot csv bestand.
-
-# Usage:
-# ./download-csv.sh
+# zie readme.md
 
 output_base=output/HUA-catnr-oudnr
 
