@@ -6,10 +6,8 @@
 # Usage:
 # $ ./download-csv.sh > output.csv
 # of
-# $ echo "Catalogusnummer,Oudnummer" > output.csv 
-# $ ./download-csv.sh >> output.csv
-# $ csv2md output.csv
-# $ marked output.md output.html
+# $ echo "Catalogusnummer,Oudnummer" > HUA-catnr-oudnr.csv
+# $ ./download-csv.sh >> HUA-catnr-oudnr.csv
 
 for i in `seq 0 10000 120000`
 do 
