@@ -1,6 +1,6 @@
 # zie readme.md
 
-output_base=output/HUA-catnr-oudnr
+output_base=docs/HUA-catnr-oudnr
 
 echo "Catalogusnummer,Oudnummer" > $output_base.csv
 
