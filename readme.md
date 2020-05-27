@@ -1,4 +1,4 @@
-# Concordantie-Catalogusnummer-Oudnummer
+# Concordantie Catalogusnummer vs. Oudnummer
 Een script en een CSV bestand met Concordantie tussen HUA Beeldbank Catalogusnummer en Oude nummering
 
 Er zijn op het moment van schrijven +100.000 afbeeldingen in de beeldbank waarvan een of meerdere 'oude nummers' bekend zijn. Onderstaande loop voert meerdere queries (in blokken van 10.000 resultaten) uit op de [triplestore van Het Utrechts Archief](https://data.netwerkdigitaalerfgoed.nl/hetutrechtsarchief/mi2rdf/sparql/mi2rdf). De resultaat gaat naar een csv, md, html en pdf.
